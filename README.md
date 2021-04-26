@@ -2,6 +2,7 @@
 
 - 🌱 Self tought python programmer.
 - 💬 Ask me anything about Star Wars and Friends! I'm quite experienced with those.
+- ♟ I love playing Chess.
 - 📫 How to reach me: Discord - PrateekBing#8790
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love public speaking
