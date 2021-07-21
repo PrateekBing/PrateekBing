@@ -1,6 +1,6 @@
 ### Hey There
 
-- 🌱 Self tought python programmer.
+- 🌱 Self taught Python programmer.
 - 💬 I've seen far too many Shows! Almost any show you name, I've seen it.
 - ♟ I love playing Chess a LOT. Lichess: @PrateekBing
 - 📫 How to reach me: Discord - PrateekBing#8790
