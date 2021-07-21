@@ -1,8 +1,8 @@
 ### Hey There
 
 - 🌱 Self tought python programmer.
-- 💬 Ask me anything about Star Wars and Friends! I'm quite experienced with those.
-- ♟ I love playing Chess.
+- 💬 I've seen far too many Shows! Almost any show you name, I've seen it.
+- ♟ I love playing Chess a LOT. Lichess: @PrateekBing
 - 📫 How to reach me: Discord - PrateekBing#8790
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love public speaking
