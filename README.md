@@ -1,4 +1,4 @@
-### Hey There
+### Hey There 👋�
 
 - 🌱 Self taught Python programmer.
 - 💬 I've seen far too many Shows! Almost any show you name, I've seen it.
