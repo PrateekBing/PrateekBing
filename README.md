@@ -1,11 +1,9 @@
 ### Hey There 👋�
 
-- 🌱 Self taught Python programmer.
-- 💬 I've seen far too many Shows! Almost any show you name, I've seen it.
-- ♟ I love playing Chess a LOT. Lichess: @PrateekBing
-- 📫 How to reach me: Discord - PrateekBing#8790
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love public speaking
+- 🌱 Self taught programmer. Not very good at it.
+- Writer | Coder | Chess enthusiast | Debater
+- ♟ Lichess: @PrateekBing
+- 📫 How to reach me: Discord - InfamousPuppy#1897
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=PrateekBing&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
