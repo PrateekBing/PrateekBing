@@ -1,6 +1,6 @@
 ### Hey There 👋�
 
-- 🌱 Self taught programmer. Not very good at it.
+- 🌱 Self taught programmer. Not bad at it.
 - Writer | Coder | Chess enthusiast | Debater
 - ♟ Lichess: @PrateekBing
 - 📫 How to reach me: Discord - InfamousPuppy#1897 | Twitter - @Prateek_d19
