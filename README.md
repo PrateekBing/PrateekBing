@@ -3,7 +3,7 @@
 - 🌱 Self taught programmer. Not bad at it.
 - Writer | Coder | Chess enthusiast | Debater
 - ♟ Lichess: @PrateekBing
-- 📫 How to reach me: Discord - InfamousPuppy#1897 | Twitter - @Prateek_d19
+- 📫 How to reach me: Discord - infamouspuppy | Twitter - @Prateek_d19
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=PrateekBing&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
